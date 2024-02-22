@@ -1,0 +1,11 @@
+{
+  "name": "makkmarci13/barion-api",
+  "description": "PHP libary for Barion Smart Gateway API integration for composer usage",
+  "require": {
+    "php": ">=7.3",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": { "Barion\\" : "lib/" }
+  }
+}
