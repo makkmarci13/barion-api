@@ -1,6 +1,14 @@
 {
   "name": "makkmarci13/barion-api",
   "description": "PHP libary for Barion Smart Gateway API integration for composer usage",
+  "keywords": [
+    "php",
+    "sdk",
+    "rest",
+    "api",
+    "barion"
+  ],
+  "license": "proprietary",
   "require": {
     "php": ">=7.3",
     "ext-curl": "*"
