@@ -15,5 +15,6 @@
   },
   "autoload": {
     "psr-4": { "Barion\\" : "lib/" }
-  }
+  },
+  "minimum-stability": "stable"
 }
